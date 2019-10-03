@@ -1,9 +1,4 @@
-/*
- * array.cpp
- *
- *  Created on: Aug 8, 2019
- *      Author: Gurdeep Singh
- */
+
 #include <iostream>   //header file included to allow program to perform input and output
 using namespace std;  //cout, cin defined inside std namespace
 
