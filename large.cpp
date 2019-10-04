@@ -1,6 +1,6 @@
 
-#include <iostream>   //header file included to allow program to perform input and output
-using namespace std;  //cout, cin defined inside std namespace
+#include <iostream>   
+using namespace std; 
 
 int main() {   //main function begins
 
